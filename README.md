@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # AI Study Planner – ReAct Reasoning Agent
 
@@ -51,3 +52,7 @@ python main.py
 The project demonstrates how a ReAct reasoning agent can complete a multi-step goal.
 
 It also demonstrates dynamic replanning by detecting a failed action and selecting an alternative approach.
+=======
+# ReAct-AI-Study-Planner
+AI Study Planner using ReAct Reasoning Agent, Python, Streamlit, Ollama and Qwen 2.5 3B.
+>>>>>>> 93e97a78552e47a1e72679a26216c70721291184
